@@ -1,8 +1,3 @@
----
-Author: Logan Mills
-Title: Keystroke Logger
----
-
 # Usage
 ## Requirements
 - `Python v3.12.0`
